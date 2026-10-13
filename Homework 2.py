@@ -1,0 +1,6 @@
+print("My daily Routine: ")
+print("I start the day with eating breakfast, then I have a shower and after that I brush my teeth and get changed")
+print("I then leave the house and walk with my friend to the bus stop then we take the us to school.")
+print("I then finish school and come home by the bus and get some homework or after school activities done.")
+print("I then have dinner, then chill then go to bed")
+print("My average revision studies hours a week is",5*2)
